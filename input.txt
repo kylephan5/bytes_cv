@@ -1,0 +1,2 @@
+/Users/kylephan/Documents/GitHub/bytes_cv/dataset/apple.jpg
+/Users/kylephan/Documents/GitHub/bytes_cv/dataset/banana.jpeg
