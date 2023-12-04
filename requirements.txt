@@ -15,6 +15,7 @@ networkx==3.2
 numpy==1.26.1
 opencv-python==4.8.1.78
 Pillow==10.1.0
+python-dotenv==1.0.0
 requests==2.31.0
 six==1.16.0
 sqlparse==0.4.4
